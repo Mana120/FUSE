@@ -46,4 +46,7 @@ The game window
 The game ending winndow
 ![image](https://github.com/Mana120/FUSE/assets/90771545/e9f8ea33-44b2-40ec-a38c-278d20153611)
 
+![image](https://github.com/Mana120/FUSE/assets/90771545/aa20143b-0c36-475a-9f0a-dcaa2d3023ad)
+
+
 
