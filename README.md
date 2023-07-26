@@ -33,10 +33,17 @@ The "menu_screen()" function displays the menu, and when the players are connect
 Overall, this project demonstrates a basic implementation of a multiplayer game using Pygame and a simple client-server architecture. Players control colored rectangles to reach a target, and the server handles game logic and communication between players.
 
 The starting window
-![image](https://github.com/GayathriManoj2003/FUSE/assets/90771545/73ed04e8-9a94-4d17-80b3-1a42b149b3d4)
+![image](https://github.com/Mana120/FUSE/assets/90771545/4eade5ee-25e5-42ae-8ba0-038182af96d1)
+
 
 The waiting window as the game will not start untill two players join the game.
-![image](https://github.com/GayathriManoj2003/FUSE/assets/90771545/43112127-05aa-4bc9-8957-a5ba4cabb007)
+![image](https://github.com/Mana120/FUSE/assets/90771545/0ab5f15e-fdd5-4227-98f4-18a98e10e492)
+
 
 The game window
-![image](https://github.com/GayathriManoj2003/FUSE/assets/90771545/d63d1b10-8d53-4b08-bb36-fa62bc4a0203)
+![image](https://github.com/Mana120/FUSE/assets/90771545/30e5df50-3599-447b-8057-62a8f1282443)
+
+The game ending winndow
+![image](https://github.com/Mana120/FUSE/assets/90771545/e9f8ea33-44b2-40ec-a38c-278d20153611)
+
+
